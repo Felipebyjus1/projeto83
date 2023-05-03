@@ -1,0 +1,13 @@
+canvas {
+    border-width: 10px;
+    border-style: dotted;
+    border-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+body{
+    text-align: center;
+    background-image: url("fundo\ de\ desenho.jpg");
+}
+h1{
+    color: red;
+}
